@@ -215,7 +215,7 @@ button {
     text-decoration: none;
 }
 .projects .title {
-    color: var(--projects-text-color);
+    color: var(--primary-title-color);
     font-size: 18px;
     line-height: 2;
     letter-spacing: 0.06em;
